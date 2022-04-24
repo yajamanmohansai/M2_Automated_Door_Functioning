@@ -1,2 +1,2 @@
-# M2_Automated_Door_Functioning
-"Opening_And_Closing_Of_Door_Is_Automatic"
+# M2_Automated_Door_Functioning_To_Control_Working_Of_ElectricalAppliances
+"Home_Automation_To_Control_Electric_Functions"
