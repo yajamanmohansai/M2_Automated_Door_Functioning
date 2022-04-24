@@ -1,0 +1,2 @@
+# M2_Automated_Door_Functioning
+"Opening_And_Closing_Of_Door_Is_Automatic"
